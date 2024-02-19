@@ -1,0 +1,213 @@
+2023-04-16T23:18:06,445 INFO o.e.ATMHandler [Thread-0] Beginning Public Key Exchange
+2023-04-16T23:18:06,448 INFO o.e.ATMHandler [Thread-0] Sent PublicKey to ATM
+2023-04-16T23:18:06,449 INFO o.e.ATMHandler [Thread-0] Received Public Key from ATM
+2023-04-16T23:18:06,450 INFO o.e.ATMHandler [Thread-0] Beginning ATM Authentication
+2023-04-16T23:18:06,450 INFO o.e.ATMHandler [Thread-0] Received ATM ID
+2023-04-16T23:18:06,527 INFO o.e.ATMHandler [Thread-0] Received Message and Nonce
+2023-04-16T23:18:06,527 INFO o.e.ATMHandler [Thread-0] Nonce: F2A51AC34DE40C75F45A15F56B1BCE
+Message: KKn2BzTdA7VlqDrEclkX
+2023-04-16T23:18:06,527 INFO o.e.ATMHandler [Thread-0] Nonce Verified
+2023-04-16T23:18:06,539 INFO o.e.ATMHandler [Thread-0] Customer Account Details Valid
+2023-04-16T23:18:06,540 INFO o.e.ATMHandler [Thread-0] Valid Connection from Client
+2023-04-16T23:20:21,852 INFO o.e.ATMHandler [Thread-0] Beginning Public Key Exchange
+2023-04-16T23:20:21,855 INFO o.e.ATMHandler [Thread-0] Sent PublicKey to ATM
+2023-04-16T23:20:21,855 INFO o.e.ATMHandler [Thread-0] Received Public Key from ATM
+2023-04-16T23:20:21,856 INFO o.e.ATMHandler [Thread-0] Beginning ATM Authentication
+2023-04-16T23:20:21,857 INFO o.e.ATMHandler [Thread-0] Received ATM ID
+2023-04-16T23:20:21,935 INFO o.e.ATMHandler [Thread-0] Received Message and Nonce
+2023-04-16T23:20:21,936 INFO o.e.ATMHandler [Thread-0] Nonce: 00D221F7B0A7971A92C62EE5D2BFF3
+Message: I3Si4kOqHxbmcNTSN/D2
+2023-04-16T23:20:21,936 INFO o.e.ATMHandler [Thread-0] Nonce Verified
+2023-04-16T23:20:21,948 INFO o.e.ATMHandler [Thread-0] Customer Account Details Valid
+2023-04-16T23:20:21,948 INFO o.e.ATMHandler [Thread-0] Valid Connection from Client
+2023-04-16T23:34:48,789 INFO o.e.ATMHandler [Thread-0] Beginning Public Key Exchange
+2023-04-16T23:34:48,793 INFO o.e.ATMHandler [Thread-0] Sent PublicKey to ATM
+2023-04-16T23:34:48,794 INFO o.e.ATMHandler [Thread-0] Received Public Key from ATM
+2023-04-16T23:34:48,795 INFO o.e.ATMHandler [Thread-0] Beginning ATM Authentication
+2023-04-16T23:34:48,795 INFO o.e.ATMHandler [Thread-0] Received ATM ID
+2023-04-16T23:34:48,856 INFO o.e.ATMHandler [Thread-0] Received Message and Nonce
+2023-04-16T23:34:48,856 INFO o.e.ATMHandler [Thread-0] Nonce: 5655728C6D3D3B7331F25AF3A0B3CD
+Message: ZeaeEuQilCsRuW/0dMOm
+2023-04-16T23:34:48,856 INFO o.e.ATMHandler [Thread-0] Nonce Verified
+2023-04-16T23:34:48,871 INFO o.e.ATMHandler [Thread-0] Customer Account Details Valid
+2023-04-16T23:34:48,871 INFO o.e.ATMHandler [Thread-0] Valid Connection from Client
+2023-04-16T23:49:51,344 INFO o.e.ATMHandler [Thread-0] Beginning Public Key Exchange
+2023-04-16T23:49:51,382 INFO o.e.ATMHandler [Thread-0] HJm1+SM4its0dBqKosBjBoyAQiozmeg3gNv8A3/WZYs=
+2023-04-16T23:49:51,383 INFO o.e.ATMHandler [Thread-0] Sent PublicKey to ATM
+2023-04-16T23:49:51,383 INFO o.e.ATMHandler [Thread-0] Received Public Key from ATM
+2023-04-16T23:49:51,384 INFO o.e.ATMHandler [Thread-0] Beginning ATM Authentication
+2023-04-16T23:49:51,384 INFO o.e.ATMHandler [Thread-0] Received ATM ID
+2023-04-16T23:49:51,434 INFO o.e.ATMHandler [Thread-0] Received Message and Nonce
+2023-04-16T23:49:51,434 INFO o.e.ATMHandler [Thread-0] Nonce: 203BB1F56FCF5218AEB53FD0DC22CF
+Message: nXB4WnWbBC8AB2+mtYt1
+2023-04-16T23:49:51,434 INFO o.e.ATMHandler [Thread-0] Nonce Verified
+2023-04-16T23:49:51,439 INFO o.e.ATMHandler [Thread-0] Customer Account Details Valid
+2023-04-16T23:49:51,440 INFO o.e.ATMHandler [Thread-0] Valid Connection from Client
+2023-04-17T00:00:42,196 INFO o.e.ATMHandler [Thread-0] Beginning Public Key Exchange
+2023-04-17T00:00:42,226 INFO o.e.ATMHandler [Thread-0] HJm1+SM4its0dBqKosBjBoyAQiozmeg3gNv8A3/WZYs=
+2023-04-17T00:00:42,227 INFO o.e.ATMHandler [Thread-0] Sent PublicKey to ATM
+2023-04-17T00:00:42,227 INFO o.e.ATMHandler [Thread-0] Fg3D4NH7CY6kxIcBWHXIG5NRcmuz0mVgN/XOYbPE72c=
+2023-04-17T00:00:42,228 INFO o.e.ATMHandler [Thread-0] Received Public Key from ATM
+2023-04-17T00:00:42,228 INFO o.e.ATMHandler [Thread-0] HE53BHBoJm04PQAWA/LCklQ0r+h2hky92ntMYHc3Nn0=
+2023-04-17T00:00:42,228 INFO o.e.ATMHandler [Thread-0] Beginning ATM Authentication
+2023-04-17T00:00:42,229 INFO o.e.ATMHandler [Thread-0] 9dteGCoSGDzJiyToghLhlFjxO9pxRgcntZZMgkPi4O0=
+2023-04-17T00:00:42,229 INFO o.e.ATMHandler [Thread-0] Received ATM ID
+2023-04-17T00:00:42,229 INFO o.e.ATMHandler [Thread-0] shzOovFNpnSuKpfhWGA3Fw==
+2023-04-17T00:00:42,276 INFO o.e.ATMHandler [Thread-0] Received Message and Nonce
+2023-04-17T00:00:42,277 INFO o.e.ATMHandler [Thread-0] vjO5smxa9SEl73FHsil7Tvl/SW/az5E+og2vACF6opQ=
+2023-04-17T00:00:42,277 INFO o.e.ATMHandler [Thread-0] pUPz2NWjMj69GL88BIt780dnze4L9OzoWIM1x8SAElQ6zfETBSMhEU9d3RTVtW47NfbU+8NF9AmRkjuzaJqV5KLOkX2QRexCSIZGUWS4/as=
+2023-04-17T00:00:42,278 INFO o.e.ATMHandler [Thread-0] QsHpi8eYsivY1wiQfpOHIQ==
+2023-04-17T00:00:42,284 INFO o.e.ATMHandler [Thread-0] Customer Account Details Valid
+2023-04-17T00:00:42,284 INFO o.e.ATMHandler [Thread-0] ttAL5ias/CBlpFs+F+XnjhzAMKOiA8qtFZ8eJvTO6lY=
+2023-04-17T00:00:42,285 INFO o.e.ATMHandler [Thread-0] Valid Connection from Client
+2023-04-17T00:00:42,285 INFO o.e.ATMHandler [Thread-0] Inku3GLyA7G2VyaUY76O317N4iVu1iOFjusmG6iD4GE=
+2023-04-17T00:00:42,298 INFO o.e.ATMHandler [Thread-0] Balance requested and sent
+2023-04-17T00:00:42,298 INFO o.e.ATMHandler [Thread-0] bqiEYCN+9K0xmWXuy/ofihuW9Z95OSlY6UzCLLIp7U4=
+2023-04-17T00:00:45,067 INFO o.e.ATMHandler [Thread-0] Balance requested and sent
+2023-04-17T00:00:45,067 INFO o.e.ATMHandler [Thread-0] bqiEYCN+9K0xmWXuy/ofihuW9Z95OSlY6UzCLLIp7U4=
+2023-04-17T00:00:53,588 INFO o.e.ATMHandler [Thread-1] Beginning Public Key Exchange
+2023-04-17T00:00:53,589 INFO o.e.ATMHandler [Thread-1] HJm1+SM4its0dBqKosBjBoyAQiozmeg3gNv8A3/WZYs=
+2023-04-17T00:00:53,589 INFO o.e.ATMHandler [Thread-1] Sent PublicKey to ATM
+2023-04-17T00:00:53,589 INFO o.e.ATMHandler [Thread-1] Fg3D4NH7CY6kxIcBWHXIG5NRcmuz0mVgN/XOYbPE72c=
+2023-04-17T00:00:53,589 INFO o.e.ATMHandler [Thread-1] Received Public Key from ATM
+2023-04-17T00:00:53,590 INFO o.e.ATMHandler [Thread-1] HE53BHBoJm04PQAWA/LCklQ0r+h2hky92ntMYHc3Nn0=
+2023-04-17T00:00:53,590 INFO o.e.ATMHandler [Thread-1] Beginning ATM Authentication
+2023-04-17T00:00:53,590 INFO o.e.ATMHandler [Thread-1] 9dteGCoSGDzJiyToghLhlFjxO9pxRgcntZZMgkPi4O0=
+2023-04-17T00:00:53,591 INFO o.e.ATMHandler [Thread-1] Received ATM ID
+2023-04-17T00:00:53,591 INFO o.e.ATMHandler [Thread-1] shzOovFNpnSuKpfhWGA3Fw==
+2023-04-17T00:00:53,628 INFO o.e.ATMHandler [Thread-1] Received Message and Nonce
+2023-04-17T00:00:53,628 INFO o.e.ATMHandler [Thread-1] vjO5smxa9SEl73FHsil7Tvl/SW/az5E+og2vACF6opQ=
+2023-04-17T00:00:53,628 INFO o.e.ATMHandler [Thread-1] ioPKQUz1Ks/ABEquSoDRkme+i844a8/BDWbh8GwJsF9hJFb71o6sBtFLs/s6cVwoEGEChM+PsescZqfBe95qhhdu+AkLfXKY2VfviKj/ByE=
+2023-04-17T00:00:53,628 INFO o.e.ATMHandler [Thread-1] QsHpi8eYsivY1wiQfpOHIQ==
+2023-04-17T00:00:53,633 INFO o.e.ATMHandler [Thread-1] Customer Account Details Valid
+2023-04-17T00:00:53,633 INFO o.e.ATMHandler [Thread-1] ttAL5ias/CBlpFs+F+XnjhzAMKOiA8qtFZ8eJvTO6lY=
+2023-04-17T00:00:53,633 INFO o.e.ATMHandler [Thread-1] Valid Connection from Client
+2023-04-17T00:00:53,634 INFO o.e.ATMHandler [Thread-1] Inku3GLyA7G2VyaUY76O317N4iVu1iOFjusmG6iD4GE=
+2023-04-17T00:00:53,647 INFO o.e.ATMHandler [Thread-1] Balance requested and sent
+2023-04-17T00:00:53,647 INFO o.e.ATMHandler [Thread-1] bqiEYCN+9K0xmWXuy/ofihuW9Z95OSlY6UzCLLIp7U4=
+2023-04-17T00:00:58,636 INFO o.e.ATMHandler [Thread-0] Balance requested and sent
+2023-04-17T00:00:58,637 INFO o.e.ATMHandler [Thread-0] bqiEYCN+9K0xmWXuy/ofihuW9Z95OSlY6UzCLLIp7U4=
+2023-04-17T00:01:03,182 INFO o.e.ATMHandler [Thread-0] Deposit: Requested
+2023-04-17T00:01:03,182 INFO o.e.ATMHandler [Thread-0] my5dUZdaT7C253mOxcbGDnLmC2FurT5hLcvtu0IezfQ=
+2023-04-17T00:01:03,184 INFO o.e.ATMHandler [Thread-0] Account Deposit: 4500
+2023-04-17T00:01:03,184 INFO o.e.ATMHandler [Thread-0] uAyfDT3W6zeZplSxgouv5cAkt7CO5qRLiOxYva4dK8k=
+2023-04-17T00:01:11,216 INFO o.e.ATMHandler [Thread-1] Balance requested and sent
+2023-04-17T00:01:11,217 INFO o.e.ATMHandler [Thread-1] bqiEYCN+9K0xmWXuy/ofihuW9Z95OSlY6UzCLLIp7U4=
+2023-04-17T00:01:23,217 INFO o.e.ATMHandler [Thread-1] Deposit: Requested
+2023-04-17T00:01:23,217 INFO o.e.ATMHandler [Thread-1] my5dUZdaT7C253mOxcbGDnLmC2FurT5hLcvtu0IezfQ=
+2023-04-17T00:01:23,218 INFO o.e.ATMHandler [Thread-1] Account Deposit: 7575
+2023-04-17T00:01:23,218 INFO o.e.ATMHandler [Thread-1] uAyfDT3W6zeZplSxgouv5cXhNWJN5zMQZuPfRCJvhDA=
+2023-04-17T00:01:27,552 INFO o.e.ATMHandler [Thread-1] Balance requested and sent
+2023-04-17T00:01:27,552 INFO o.e.ATMHandler [Thread-1] bqiEYCN+9K0xmWXuy/ofihuW9Z95OSlY6UzCLLIp7U4=
+2023-04-17T00:01:34,523 INFO o.e.ATMHandler [Thread-0] Balance requested and sent
+2023-04-17T00:01:34,523 INFO o.e.ATMHandler [Thread-0] bqiEYCN+9K0xmWXuy/ofihuW9Z95OSlY6UzCLLIp7U4=
+2023-04-17T01:13:52,656 INFO o.e.ATMHandler [Thread-0] Beginning Public Key Exchange
+2023-04-17T01:13:52,701 INFO o.e.ATMHandler [Thread-0] HJm1+SM4its0dBqKosBjBoyAQiozmeg3gNv8A3/WZYs=
+2023-04-17T01:13:52,701 INFO o.e.ATMHandler [Thread-0] Sent PublicKey to ATM
+2023-04-17T01:13:52,702 INFO o.e.ATMHandler [Thread-0] Fg3D4NH7CY6kxIcBWHXIG5NRcmuz0mVgN/XOYbPE72c=
+2023-04-17T01:13:52,702 INFO o.e.ATMHandler [Thread-0] Received Public Key from ATM
+2023-04-17T01:13:52,702 INFO o.e.ATMHandler [Thread-0] HE53BHBoJm04PQAWA/LCklQ0r+h2hky92ntMYHc3Nn0=
+2023-04-17T01:13:52,703 INFO o.e.ATMHandler [Thread-0] Beginning ATM Authentication
+2023-04-17T01:13:52,703 INFO o.e.ATMHandler [Thread-0] 9dteGCoSGDzJiyToghLhlFjxO9pxRgcntZZMgkPi4O0=
+2023-04-17T01:13:52,703 INFO o.e.ATMHandler [Thread-0] Received ATM ID
+2023-04-17T01:13:52,704 INFO o.e.ATMHandler [Thread-0] shzOovFNpnSuKpfhWGA3Fw==
+2023-04-17T01:13:52,758 INFO o.e.ATMHandler [Thread-0] Received Message and Nonce
+2023-04-17T01:13:52,758 INFO o.e.ATMHandler [Thread-0] vjO5smxa9SEl73FHsil7Tvl/SW/az5E+og2vACF6opQ=
+2023-04-17T01:13:52,759 INFO o.e.ATMHandler [Thread-0] iyCwVKXNpPM3XI2UjwTtxbcprLaUwnVrjQ0A6wW6vFjVDAyG8aoynxZ7u1MR7wzlnyp1iYtfAB1+AbN3y+XR3ZZekofRZFB9jBist7Gj43A=
+2023-04-17T01:13:52,760 INFO o.e.ATMHandler [Thread-0] QsHpi8eYsivY1wiQfpOHIQ==
+2023-04-17T01:13:52,765 INFO o.e.ATMHandler [Thread-0] Customer Account Details Valid
+2023-04-17T01:13:52,765 INFO o.e.ATMHandler [Thread-0] ttAL5ias/CBlpFs+F+XnjhzAMKOiA8qtFZ8eJvTO6lY=
+2023-04-17T01:13:52,766 INFO o.e.ATMHandler [Thread-0] Valid Connection from Client
+2023-04-17T01:13:52,766 INFO o.e.ATMHandler [Thread-0] Inku3GLyA7G2VyaUY76O317N4iVu1iOFjusmG6iD4GE=
+2023-04-17T01:13:52,779 INFO o.e.ATMHandler [Thread-0] Balance requested and sent
+2023-04-17T01:13:52,780 INFO o.e.ATMHandler [Thread-0] bqiEYCN+9K0xmWXuy/ofihuW9Z95OSlY6UzCLLIp7U4=
+2023-04-17T01:14:23,471 INFO o.e.ATMHandler [Thread-1] Beginning Public Key Exchange
+2023-04-17T01:14:23,472 INFO o.e.ATMHandler [Thread-1] HJm1+SM4its0dBqKosBjBoyAQiozmeg3gNv8A3/WZYs=
+2023-04-17T01:14:23,472 INFO o.e.ATMHandler [Thread-1] Sent PublicKey to ATM
+2023-04-17T01:14:23,472 INFO o.e.ATMHandler [Thread-1] Fg3D4NH7CY6kxIcBWHXIG5NRcmuz0mVgN/XOYbPE72c=
+2023-04-17T01:14:23,472 INFO o.e.ATMHandler [Thread-1] Received Public Key from ATM
+2023-04-17T01:14:23,473 INFO o.e.ATMHandler [Thread-1] HE53BHBoJm04PQAWA/LCklQ0r+h2hky92ntMYHc3Nn0=
+2023-04-17T01:14:23,473 INFO o.e.ATMHandler [Thread-1] Beginning ATM Authentication
+2023-04-17T01:14:23,473 INFO o.e.ATMHandler [Thread-1] 9dteGCoSGDzJiyToghLhlFjxO9pxRgcntZZMgkPi4O0=
+2023-04-17T01:14:23,474 INFO o.e.ATMHandler [Thread-1] Received ATM ID
+2023-04-17T01:14:23,474 INFO o.e.ATMHandler [Thread-1] shzOovFNpnSuKpfhWGA3Fw==
+2023-04-17T01:14:23,512 INFO o.e.ATMHandler [Thread-1] Received Message and Nonce
+2023-04-17T01:14:23,512 INFO o.e.ATMHandler [Thread-1] vjO5smxa9SEl73FHsil7Tvl/SW/az5E+og2vACF6opQ=
+2023-04-17T01:14:23,512 INFO o.e.ATMHandler [Thread-1] mwZxdJ5YgPZL/IPDMFzezMoCg2u4gk5NlZ9inTfIbD82uz+tuMY2b1C5N6cx3mYj4CCJJeijFMTUpT9c09YP0cGGKH2QPc4scLDleyLSaUc=
+2023-04-17T01:14:23,513 INFO o.e.ATMHandler [Thread-1] QsHpi8eYsivY1wiQfpOHIQ==
+2023-04-17T01:14:23,518 INFO o.e.ATMHandler [Thread-1] Customer Account Details Valid
+2023-04-17T01:14:23,518 INFO o.e.ATMHandler [Thread-1] ttAL5ias/CBlpFs+F+XnjhzAMKOiA8qtFZ8eJvTO6lY=
+2023-04-17T01:14:23,518 INFO o.e.ATMHandler [Thread-1] Valid Connection from Client
+2023-04-17T01:14:23,519 INFO o.e.ATMHandler [Thread-1] Inku3GLyA7G2VyaUY76O317N4iVu1iOFjusmG6iD4GE=
+2023-04-17T01:14:23,532 INFO o.e.ATMHandler [Thread-1] Balance requested and sent
+2023-04-17T01:14:23,532 INFO o.e.ATMHandler [Thread-1] bqiEYCN+9K0xmWXuy/ofihuW9Z95OSlY6UzCLLIp7U4=
+2023-04-17T01:15:26,958 INFO o.e.ATMHandler [Thread-0] Balance requested and sent
+2023-04-17T01:15:26,958 INFO o.e.ATMHandler [Thread-0] bqiEYCN+9K0xmWXuy/ofihuW9Z95OSlY6UzCLLIp7U4=
+2023-04-17T01:15:39,753 INFO o.e.ATMHandler [Thread-0] Deposit: Requested
+2023-04-17T01:15:39,754 INFO o.e.ATMHandler [Thread-0] my5dUZdaT7C253mOxcbGDnLmC2FurT5hLcvtu0IezfQ=
+2023-04-17T01:15:39,756 INFO o.e.ATMHandler [Thread-0] Account Deposit: 1412
+2023-04-17T01:15:39,756 INFO o.e.ATMHandler [Thread-0] uAyfDT3W6zeZplSxgouv5Y2fF5jmOrRAyYD9I0pnP9Y=
+2023-04-17T01:15:50,597 INFO o.e.ATMHandler [Thread-0] Withdrawal: Requested
+2023-04-17T01:15:50,597 INFO o.e.ATMHandler [Thread-0] 0jffyAjVxxK4lwOvf8ujzIF5z1zvbt99IhO54bUF888=
+2023-04-17T01:15:50,604 INFO o.e.ATMHandler [Thread-0] Account Withdrawal: 500
+2023-04-17T01:15:50,604 INFO o.e.ATMHandler [Thread-0] o3q7n5sUdEPcbC3hiW8UQIi1PR8bpr7QLa68bxYSJUM=
+2023-04-17T01:16:04,514 INFO o.e.ATMHandler [Thread-1] Balance requested and sent
+2023-04-17T01:16:04,514 INFO o.e.ATMHandler [Thread-1] bqiEYCN+9K0xmWXuy/ofihuW9Z95OSlY6UzCLLIp7U4=
+2023-04-17T01:16:08,240 INFO o.e.ATMHandler [Thread-1] Deposit: Requested
+2023-04-17T01:16:08,241 INFO o.e.ATMHandler [Thread-1] my5dUZdaT7C253mOxcbGDnLmC2FurT5hLcvtu0IezfQ=
+2023-04-17T01:16:08,242 INFO o.e.ATMHandler [Thread-1] Account Deposit: 400
+2023-04-17T01:16:08,242 INFO o.e.ATMHandler [Thread-1] uAyfDT3W6zeZplSxgouv5cfVLSocTV6p2e5xvBJQuOo=
+2023-04-17T01:16:12,684 INFO o.e.ATMHandler [Thread-1] Withdrawal: Requested
+2023-04-17T01:16:12,684 INFO o.e.ATMHandler [Thread-1] 0jffyAjVxxK4lwOvf8ujzIF5z1zvbt99IhO54bUF888=
+2023-04-17T01:16:12,692 INFO o.e.ATMHandler [Thread-1] Account Withdrawal: 100
+2023-04-17T01:16:12,692 INFO o.e.ATMHandler [Thread-1] o3q7n5sUdEPcbC3hiW8UQO5xzlmAS+W/m82NZHHAXu4=
+2023-04-17T01:18:18,141 INFO o.e.ATMHandler [Thread-2] Beginning Public Key Exchange
+2023-04-17T01:18:18,142 INFO o.e.ATMHandler [Thread-2] HJm1+SM4its0dBqKosBjBoyAQiozmeg3gNv8A3/WZYs=
+2023-04-17T01:18:18,142 INFO o.e.ATMHandler [Thread-2] Sent PublicKey to ATM
+2023-04-17T01:18:18,142 INFO o.e.ATMHandler [Thread-2] Fg3D4NH7CY6kxIcBWHXIG5NRcmuz0mVgN/XOYbPE72c=
+2023-04-17T01:18:18,143 INFO o.e.ATMHandler [Thread-2] Received Public Key from ATM
+2023-04-17T01:18:18,143 INFO o.e.ATMHandler [Thread-2] HE53BHBoJm04PQAWA/LCklQ0r+h2hky92ntMYHc3Nn0=
+2023-04-17T01:18:18,143 INFO o.e.ATMHandler [Thread-2] Beginning ATM Authentication
+2023-04-17T01:18:18,143 INFO o.e.ATMHandler [Thread-2] 9dteGCoSGDzJiyToghLhlFjxO9pxRgcntZZMgkPi4O0=
+2023-04-17T01:18:18,144 INFO o.e.ATMHandler [Thread-2] Received ATM ID
+2023-04-17T01:18:18,144 INFO o.e.ATMHandler [Thread-2] shzOovFNpnSuKpfhWGA3Fw==
+2023-04-17T01:18:18,190 INFO o.e.ATMHandler [Thread-2] Received Message and Nonce
+2023-04-17T01:18:18,190 INFO o.e.ATMHandler [Thread-2] vjO5smxa9SEl73FHsil7Tvl/SW/az5E+og2vACF6opQ=
+2023-04-17T01:18:18,190 INFO o.e.ATMHandler [Thread-2] dLqPST447kPQO9OoPt+rKjGsJ4zCfRH4hqY5u86hNrg4T8jgrtZkYk28HSKGoSyUVgNFqKnA5FiAKgyTPg+6HimuFuYBIaOwE/bQoP3rYM4=
+2023-04-17T01:18:18,190 INFO o.e.ATMHandler [Thread-2] QsHpi8eYsivY1wiQfpOHIQ==
+2023-04-17T01:18:18,195 INFO o.e.ATMHandler [Thread-2] Customer Account Details Valid
+2023-04-17T01:18:18,196 INFO o.e.ATMHandler [Thread-2] ttAL5ias/CBlpFs+F+XnjhzAMKOiA8qtFZ8eJvTO6lY=
+2023-04-17T01:18:18,196 INFO o.e.ATMHandler [Thread-2] Valid Connection from Client
+2023-04-17T01:18:18,196 INFO o.e.ATMHandler [Thread-2] Inku3GLyA7G2VyaUY76O317N4iVu1iOFjusmG6iD4GE=
+2023-04-17T01:18:18,212 INFO o.e.ATMHandler [Thread-2] Balance requested and sent
+2023-04-17T01:18:18,212 INFO o.e.ATMHandler [Thread-2] bqiEYCN+9K0xmWXuy/ofihuW9Z95OSlY6UzCLLIp7U4=
+2023-04-17T01:18:24,853 INFO o.e.ATMHandler [Thread-2] Deposit: Requested
+2023-04-17T01:18:24,853 INFO o.e.ATMHandler [Thread-2] my5dUZdaT7C253mOxcbGDnLmC2FurT5hLcvtu0IezfQ=
+2023-04-17T01:18:24,855 INFO o.e.ATMHandler [Thread-2] Account Deposit: 150
+2023-04-17T01:18:24,855 INFO o.e.ATMHandler [Thread-2] uAyfDT3W6zeZplSxgouv5aGUWENqzbY/wUZ7CG0i3rg=
+2023-04-17T01:18:25,941 INFO o.e.ATMHandler [Thread-2] Balance requested and sent
+2023-04-17T01:18:25,941 INFO o.e.ATMHandler [Thread-2] bqiEYCN+9K0xmWXuy/ofihuW9Z95OSlY6UzCLLIp7U4=
+2023-04-17T02:52:33,502 INFO o.e.ATMHandler [Thread-3] Beginning Public Key Exchange
+2023-04-17T02:52:33,503 INFO o.e.ATMHandler [Thread-3] HJm1+SM4its0dBqKosBjBoyAQiozmeg3gNv8A3/WZYs=
+2023-04-17T02:52:33,503 INFO o.e.ATMHandler [Thread-3] Sent PublicKey to ATM
+2023-04-17T02:52:33,504 INFO o.e.ATMHandler [Thread-3] Fg3D4NH7CY6kxIcBWHXIG5NRcmuz0mVgN/XOYbPE72c=
+2023-04-17T02:52:33,504 INFO o.e.ATMHandler [Thread-3] Received Public Key from ATM
+2023-04-17T02:52:33,504 INFO o.e.ATMHandler [Thread-3] HE53BHBoJm04PQAWA/LCklQ0r+h2hky92ntMYHc3Nn0=
+2023-04-17T02:52:33,504 INFO o.e.ATMHandler [Thread-3] Beginning ATM Authentication
+2023-04-17T02:52:33,505 INFO o.e.ATMHandler [Thread-3] 9dteGCoSGDzJiyToghLhlFjxO9pxRgcntZZMgkPi4O0=
+2023-04-17T02:52:33,506 INFO o.e.ATMHandler [Thread-3] Received ATM ID
+2023-04-17T02:52:33,506 INFO o.e.ATMHandler [Thread-3] shzOovFNpnSuKpfhWGA3Fw==
+2023-04-17T02:52:33,544 INFO o.e.ATMHandler [Thread-3] Received Message and Nonce
+2023-04-17T02:52:33,544 INFO o.e.ATMHandler [Thread-3] vjO5smxa9SEl73FHsil7Tvl/SW/az5E+og2vACF6opQ=
+2023-04-17T02:52:33,544 INFO o.e.ATMHandler [Thread-3] /v5TP9q5TwenUcOcbaGwPNdEgj+KPU/NE/Ivy/Beqo+IoIHZsaW+WKtr14mCWBAvDFyDk7JwAIoq+FpLrjS8KT80lxNCk+GACqND8eDz0s0=
+2023-04-17T02:52:33,544 INFO o.e.ATMHandler [Thread-3] QsHpi8eYsivY1wiQfpOHIQ==
+2023-04-17T02:52:33,549 INFO o.e.ATMHandler [Thread-3] Customer Account Details Valid
+2023-04-17T02:52:33,549 INFO o.e.ATMHandler [Thread-3] ttAL5ias/CBlpFs+F+XnjhzAMKOiA8qtFZ8eJvTO6lY=
+2023-04-17T02:52:33,549 INFO o.e.ATMHandler [Thread-3] Valid Connection from Client
+2023-04-17T02:52:33,549 INFO o.e.ATMHandler [Thread-3] Inku3GLyA7G2VyaUY76O317N4iVu1iOFjusmG6iD4GE=
+2023-04-17T02:52:33,562 INFO o.e.ATMHandler [Thread-3] Balance requested and sent
+2023-04-17T02:52:33,562 INFO o.e.ATMHandler [Thread-3] bqiEYCN+9K0xmWXuy/ofihuW9Z95OSlY6UzCLLIp7U4=
+2023-04-17T02:52:43,106 INFO o.e.ATMHandler [Thread-3] Withdrawal: Requested
+2023-04-17T02:52:43,106 INFO o.e.ATMHandler [Thread-3] 0jffyAjVxxK4lwOvf8ujzIF5z1zvbt99IhO54bUF888=
+2023-04-17T02:52:43,107 INFO o.e.ATMHandler [Thread-3] Account Withdrawal: 120
+2023-04-17T02:52:43,108 INFO o.e.ATMHandler [Thread-3] o3q7n5sUdEPcbC3hiW8UQOR4Pgns/mQS52MAOSpzUcU=
